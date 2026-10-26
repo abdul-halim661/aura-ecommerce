@@ -41,7 +41,7 @@ function App() {
           </div>
         ))}
       </div>
-      <p className="text-center text-zinc-600 p-10 text-sm">Data coming from http://localhost:5000/api/products 🔥</p>
+      <p className="text-center text-zinc-600 p-10 text-sm">Data coming from https://aura-ecommerce-ww1b.onrender.com/api/products 🔥</p>
     </div>
   )
 }
